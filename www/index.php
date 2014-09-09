@@ -15,16 +15,21 @@
 </head>
 
 <body>
-<div id="header">
-  <center>
-    <h1><b>The Door</b></h1>
-  </center>
-</div>
-<div id="main">
-  <div id="left-float">
-  </div>
-  <div id="right-float">
-  </div>
+<section class="container">
+  <nav>
+    <ul class="nav">
+      <li class="active"><a href="index.php" title="Home">Home</a></li>
+      <li><a href="#" title="Products">Galleries</a></li>
+      <li><a href="#" title="Videos">Videos</a></li>
+	  <li><a href="#">Log Out</a></li>
+	  <li class="filler"></li>
+    </ul>
+  </nav>
+</section>
+<div id="content">
+
+</div>	
+
 </div>
 </body> 
 
