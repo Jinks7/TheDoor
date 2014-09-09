@@ -1,0 +1,21 @@
+/*Stylesheet for The Project */
+
+body
+{
+}
+
+/* Sections */
+#left-float
+{
+	float: left;
+	width: 50%;
+	margin-left: 25%;
+	height: 85%;
+	background: black;
+}
+
+#right-float
+{
+	float: right;
+	width: 25%;
+}
