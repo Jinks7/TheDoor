@@ -9,7 +9,8 @@ body
 {
 	margin: 1% 20% 1% 20%;
 	height: 10%;
-	background: #66A3FF;
+	background: #99c2ff;
+	border-radius: 12px 12px 0 0;
 }
 
 /* Sections */

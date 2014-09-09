@@ -2,7 +2,7 @@
 
 <head>
 
-    <title>Project X</title>
+    <title>The Door</title>
     <script>
     </script>
     <script>
@@ -17,7 +17,7 @@
 <body>
 <div id="header">
   <center>
-    <h1><b>The Project</b></h1>
+    <h1><b>The Door</b></h1>
   </center>
 </div>
 <div id="main">
