@@ -7,9 +7,9 @@ body
 /* Header */
 #header
 {
-	margin-left: 20%;
-	margin-right: 20%; 
+	margin: 1% 20% 1% 20%;
 	height: 10%;
+	background: #66A3FF;
 }
 
 /* Sections */
