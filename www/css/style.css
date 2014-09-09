@@ -49,6 +49,33 @@ ol, ul {
 	box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.05), 0 2px #262a2e, 0 3px #1f2326, 0 4px 3px rgba(0, 0, 0, 0.2);
 }
 
+#main
+{
+	float: left;
+	border-right: 3px solid #232428;
+	height: 100%;
+	width: 75%
+}
+
+#sidebar
+{
+	float: right;
+	width: 24%;
+	height: 100%;
+	color: white;
+}
+
+#sidebar input[type=submit]
+{
+	background: rgba(0, 0, 0, 0.05);
+	color: white;
+}
+
+#search
+{
+	padding-top: 10px;
+}
+
 ul
 {
 	padding: 0px;

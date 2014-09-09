@@ -18,8 +18,8 @@
 <section class="container">
   <nav>
     <ul class="nav">
-      <li class="active"><a href="index.php" title="Home">Home</a></li>
-      <li><a href="gallery.php" title="Galleries">Galleries</a></li>
+      <li><a href="index.php" title="Home">Home</a></li>
+      <li class="active"><a href="gallery.php" title="Galleries">Galleries</a></li>
       <li><a href="videos.php" title="Videos">Videos</a></li>
 	  <li><a href="#">Log Out</a></li>
 	  <li class="filler"></li>
@@ -30,7 +30,8 @@
   <div id="main">
   
   </div>
-<?php 
+  
+<?php
 	include('sidebar.php');
 ?>
 </div>	

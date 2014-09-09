@@ -18,9 +18,9 @@
 <section class="container">
   <nav>
     <ul class="nav">
-      <li class="active"><a href="index.php" title="Home">Home</a></li>
+      <li><a href="index.php" title="Home">Home</a></li>
       <li><a href="gallery.php" title="Galleries">Galleries</a></li>
-      <li><a href="videos.php" title="Videos">Videos</a></li>
+      <li class="active"><a href="videos.php" title="Videos">Videos</a></li>
 	  <li><a href="#">Log Out</a></li>
 	  <li class="filler"></li>
     </ul>
@@ -30,9 +30,16 @@
   <div id="main">
   
   </div>
-<?php 
+  
+<?php
 	include('sidebar.php');
 ?>
+	<form name="search">
+		<label for="search"><b>Search:</b></label><br>
+		<input type="text" name="search" />
+		<input type="submit" name="submit" value="Search" />
+	</form>
+  </div>
 </div>	
 
 </div>
